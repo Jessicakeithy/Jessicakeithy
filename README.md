@@ -21,9 +21,4 @@ Here are some ideas to get you started:
 
  ## 
 
-<div> 
- <a href="https://https://www.linkedin.com/in/jessica-keithy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-
-
-![download20230600183944_resized](https://github.com/Jessicakeithy/Jessicakeithy/assets/83819406/c17b762c-c47c-48aa-9e82-4868c7b188ab)
+![Avatar-Pizza-Git](https://github.com/Jessicakeithy/Jessicakeithy/assets/83819406/95cfe55b-79ac-4e8e-8950-e215eac73121)
