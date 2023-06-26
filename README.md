@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working on crazy projects!
 - 🌱 I'm currently learning | MySQL | Python | Java |
 - ⚡ Fun fact: I Love Games!!!🎮💖
 
